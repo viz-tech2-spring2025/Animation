@@ -12,7 +12,7 @@ export function Chart({ data }) {
   const widthBound = width - marginLeft - marginRight;
 
   // Filter and process the data
-  
+
   return (
     <div>
       <p>Template for the Coding Exercise</p>
